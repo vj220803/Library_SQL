@@ -1,4 +1,4 @@
-# Library Management System (SQL Project)
+# **Library Management System (SQL Project)**
 
 ## 1.Project Overview
 This project demonstrate a Library Management System built using My SQL Workbench. It simulates the fundamental operations of a library: managing books, librarians, users (members), and tracking which members borrow which books.
@@ -7,6 +7,8 @@ The database handles:
 - Membership details
 - Issuance and return tracking of books
 - Cost and quantity analytics
+
+Image[https://github.com/vj220803/Library_SQL/blob/main/Library%20Management%20System%20(SQL%20Project).png]
 
 ---
 
