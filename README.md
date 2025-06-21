@@ -8,7 +8,7 @@ The database handles:
 - Issuance and return tracking of books
 - Cost and quantity analytics
 
-Image[https://github.com/vj220803/Library_SQL/blob/main/Library%20Management%20System%20(SQL%20Project).png]
+![Image](https://github.com/vj220803/Library_SQL/blob/main/Library%20Management%20System%20(SQL%20Project).png)
 
 ---
 
