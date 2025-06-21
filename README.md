@@ -1,6 +1,6 @@
 # Library Management System (SQL Project)
 
-## Project Overview
+## 1.Project Overview
 This project demonstrate a Library Management System built using My SQL Workbench. It simulates the fundamental operations of a library: managing books, librarians, users (members), and tracking which members borrow which books.
 The database handles:
 - Book storage and librarian responsibility
@@ -10,7 +10,7 @@ The database handles:
 
 ---
 
-## Database Schema
+## 2.Database Schema
 
 The database `LIBRARY` contains four interrelated tables:
 
@@ -56,7 +56,7 @@ The database `LIBRARY` contains four interrelated tables:
 
 ---
 
-## Relationships
+## 3.Relationships
 
 ```
 [librarian] 1 ─────< manages >───── M [books]
@@ -76,7 +76,7 @@ The database `LIBRARY` contains four interrelated tables:
 
 ---
 
-## Query List & Explanation
+## 4.Query List & Explanation
 
 | No  | Query Description                                     |
 | --- | ----------------------------------------------------- |
