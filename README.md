@@ -78,6 +78,11 @@ The database `LIBRARY` contains four interrelated tables:
 
 ---
 
+## 5. ER Diagram
+![ER Diagram](https://github.com/vj220803/Library_SQL/blob/main/Library%20ER%20Diagram.PNG)
+
+---
+
 ## 4.Query List & Explanation
 
 | No  | Query Description                                     |
